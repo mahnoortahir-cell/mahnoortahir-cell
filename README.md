@@ -31,7 +31,7 @@ maneuvering for autonomous vehicles.
 - **NLP & GenAI:** Transformers, RAG, LLM Fine-Tuning, Prompt Engineering  
 - **Agentic AI:** LangGraph, CrewAI, ReAct, Plan-and-Execute  
 - **Simulation:** CARLA, Pygame  
-- **MLOps:** Weights & Biases, Optuna, Docker  
+- **MLOps:** Weights & Biases, Optuna, Docker, n8n 
 
 ---
 
