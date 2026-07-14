@@ -1,52 +1,114 @@
-# mahnoortahir00
-AI Engineer | MS Artificial Intelligence | Deep Learning, Computer Vision, NLP, Agentic AI
+<h1 align="center">Mahnoor Tahir</h1>
 
-# 👋 Hi, I'm Mahnoor Tahir
+<p align="center">
+  <strong>AI Engineer · Agentic AI · Retrieval-Augmented Generation · Autonomous Systems · Deep Learning</strong>
+</p>
 
-🎓 MS Artificial Intelligence | AI Engineer | Research-Oriented Developer  
-🤖 Agentic AI • Deep Learning • Computer Vision • NLP • Autonomous Systems  
+<p align="center">
+  Building intelligent systems that connect research ideas with reliable, working software.
+</p>
 
----
-
-## 🔬 About Me
-I am an AI Engineer and MS Artificial Intelligence student with strong hands-on experience in
-**deep learning, agentic AI, multi-agent systems, computer vision, and NLP**.
-
-I have worked on **real-world AI systems**, including:
-- Agentic & Multi-Agent AI frameworks
-- LLM-based decision networks
-- Retrieval-Augmented Generation (RAG) systems
-- Autonomous vehicle maneuvering in GPS/communication-denied environments
-- UAV image georeferencing and traffic scene understanding
-
-I am currently involved in **R&D work** and preparing a **journal paper** on deep learning–based
-maneuvering for autonomous vehicles.
+<p align="center">
+  <a href="https://www.linkedin.com/in/mahnoor-tahir0/">
+    <img src="https://img.shields.io/badge/LinkedIn-Mahnoor%20Tahir-0A66C2?logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:mahnoortahir00000@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?logo=gmail&logoColor=white" alt="Email">
+  </a>
+  <a href="https://www.kaggle.com/mahnoortahir00">
+    <img src="https://img.shields.io/badge/Kaggle-mahnoortahir00-20BEFF?logo=kaggle&logoColor=white" alt="Kaggle">
+  </a>
+</p>
 
 ---
 
-## 🧠 Core Skills
-- **Programming:** Python, C++, SQL, MySQL  
-- **Deep Learning:** PyTorch, PyTorch Lightning, TensorFlow, Keras  
-- **Computer Vision:** OpenCV, YOLO, UAV Image Processing  
-- **NLP & GenAI:** Transformers, RAG, LLM Fine-Tuning, Prompt Engineering  
-- **Agentic AI:** LangGraph, CrewAI, ReAct, Plan-and-Execute  
-- **Simulation:** CARLA, Pygame  
-- **MLOps:** Weights & Biases, Optuna, Docker, n8n 
+## About Me
+
+I am an AI Engineer with an MS in Artificial Intelligence, currently awaiting the final result. My work focuses on building complete AI systems rather than isolated model experiments.
+
+My main interests include:
+
+- Agentic AI and multi-agent coordination
+- Secure and auto-corrective RAG systems
+- LLM planning, evaluation, and structured tool use
+- Autonomous-driving perception, decision-making, and control
+- Deep learning for NLP and computer vision
+- Simulation-based research and reproducible experimentation
+
+I am particularly interested in AI engineering and applied research opportunities in the UAE.
 
 ---
 
-## 🚀 Featured Projects
-🔹 **Deep Learning-Based Maneuvering for Autonomous Vehicles**  
-AI agent for maneuvering in GPS/communication-denied environments using simulation and deep learning.
+## Featured Work
 
-🔹 **CrisisSim – Agentic AI for Disaster Response**  
-Multi-agent LLM-based disaster response simulation with coordination and planning.
+| Project | Focus |
+|---|---|
+| [Deep Learning-Based Autonomous Vehicle Maneuvering](https://github.com/mahnoortahir-cell/Deep-learning-based-maneuvering-for-Automated-vehicles-in-GPS-Communication-denied-environment) | CARLA-based sensor processing, maneuver planning, collision avoidance, PID/MPC control, dataset generation, behavior learning, and reinforcement-learning workflows for GPS- and communication-denied environments. |
+| [CrisisSim: Agentic AI for Disaster Response](https://github.com/mahnoortahir-cell/CrisisSim-Agentic-AI-for-Disaster-Response-LLM-based-) | LLM-driven multi-agent simulation for disaster-response planning, structured JSON actions, resource coordination, reasoning-strategy comparison, and operational evaluation. |
+| [Secure Agentic RAG for Multi-Project Research Labs](https://github.com/mahnoortahir-cell/Agentic-RAG-Multi-Project-Research-Lab-Knowledge-Base) | Multi-tenant RAG with tenant isolation, access-control policies, PII protection, prompt-injection checks, audit logging, and red-team evaluation. |
+| [Auto-Corrective LAB RAG](https://github.com/mahnoortahir-cell/Auto-Corrective-LAB-RAG) | Adaptive retrieval with query rewriting, document grading, hallucination checking, web fallback, staleness detection, and human validation. |
+| [Neural ODE Transformer for Long-Sequence NLP](https://github.com/mahnoortahir-cell/Neural-ODE-Transformer-for-Long-Sequence-NLP) | Experimental continuous-depth Transformer architecture with Neural ODE hidden-state and attention dynamics for language modeling. |
 
-🔹 **Automatic Georeferencing System (UAVs)**  
-Feature-based pixel-to-geospatial mapping using SIFT, SURF, and HOG.
+---
 
-🔹 **Agentic RAG System**  
-Self-correcting RAG pipeline with trust-aware retrieval and LLM reasoning.
+## Technical Focus
+
+### AI and Machine Learning
+
+`PyTorch` · `TensorFlow` · `Hugging Face` · `Scikit-learn` · `CNNs` · `Transformers` · `Neural ODEs`
+
+### Agentic AI and LLM Systems
+
+`LangChain` · `LangGraph` · `CrewAI` · `RAG` · `ReAct` · `Reflexion` · `Plan-and-Execute` · `MCP`
+
+### Backend and AI Infrastructure
+
+`Python` · `FastAPI` · `REST APIs` · `Docker` · `ChromaDB` · `FAISS` · `SQL` · `n8n`
+
+### Computer Vision and Autonomous Systems
+
+`OpenCV` · `YOLO` · `CARLA` · `Sensor Fusion` · `Trajectory Planning` · `PID` · `MPC`
+
+### Experimentation
+
+`Pytest` · `Weights & Biases` · `Optuna` · `JSONL Logging` · `Evaluation Pipelines` · `Technical Documentation`
+
+---
+
+## What I Care About
+
+I am interested in systems that are:
+
+- Grounded in evidence
+- Designed with clear evaluation criteria
+- Observable and testable
+- Secure around data and model behavior
+- Useful beyond a demonstration notebook
+- Documented well enough for others to understand and reproduce
+
+---
+
+## Current Direction
+
+I am continuing to work on:
+
+- Reliable agentic workflows for real-world applications
+- RAG security, evaluation, and corrective retrieval
+- Multi-agent planning and coordination
+- Autonomous systems operating under limited information
+- Research-oriented AI systems with production-ready structure
+
+---
+
+## Connect
+
+- **LinkedIn:** [linkedin.com/in/mahnoor-tahir0](https://www.linkedin.com/in/mahnoor-tahir0/)
+- **Email:** [mahnoortahir00000@gmail.com](mailto:mahnoortahir00000@gmail.com)
+- **Kaggle:** [kaggle.com/mahnoortahir00](https://www.kaggle.com/mahnoortahir00)
+
+<p align="center">
+  <em>Open to AI Engineering, Applied AI, Agentic AI, and Research Engineering opportunities in the UAE.</em>
+</p>
 
 🔹 **Intel Image Classification (Kaggle)**  
 Transfer learning with ResNet & EfficientNet using PyTorch Lightning and W&B.
